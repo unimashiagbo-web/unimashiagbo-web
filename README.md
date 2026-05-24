@@ -73,3 +73,9 @@ Download my resume here:
 
 [Patience Ayeni CV]
 https://github.com/unimashiagbo-web/unimashiagbo-web/blob/main/Patience-Ayeni-CV.pdf.pdf
+
+
+## 🌐 Portfolio
+
+Visit my portfolio:
+https://patience-ayeni.lovable.app
